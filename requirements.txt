@@ -17,3 +17,8 @@ wandb
 torch
 torchvision
 torchaudio
+modelscope
+accelerate
+sentencepiece #If using conda env with python 3.13, install using <conda install -c conda-forge sentencepiece>
+scipy
+tiktoken
