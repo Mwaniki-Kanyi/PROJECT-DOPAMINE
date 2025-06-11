@@ -1,0 +1,3 @@
+Evaluate the profitability and scalability of the following YouTube niche: {NICHE}.
+Assess it based on CPM potential, demand, competition, AI content fit, and long-term sustainability.
+Return a summary and a score out of 10.
